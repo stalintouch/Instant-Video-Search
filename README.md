@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Instant Video Search
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is a React app replicating youtube's functionality of instantly searching for videos as you type and also selecting a video from the options on the right.
 
 ### Getting Started
 
@@ -10,14 +10,11 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/stalintouch/Instant-Video-Search
+> cd Instant-Video-Search
 > npm install
 > npm start
 ```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
